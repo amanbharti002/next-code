@@ -10,6 +10,7 @@ export default function({params}){
     return(
         <>
         <h1>hello id {params.id}</h1>
+        <p></p>
         </>
     )
 }
